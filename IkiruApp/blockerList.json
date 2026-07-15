@@ -1,0 +1,154 @@
+[
+  {
+    "trigger": { "url-filter": ".*\\.doubleclick\\.net.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*googlesyndication\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*googleadservices\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*google-analytics\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*adnxs\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*ads\\.yahoo\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*advertising\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*criteo\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*taboola\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*outbrain\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*mgid\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*revcontent\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*rubiconproject\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*pubmatic\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*openx\\.net.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*appnexus\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*amazon-adsystem\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*media\\.net.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*sharethrough\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*spotxchange\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*spotx\\.tv.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*smartadserver\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*moatads\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*adtechus\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*adsrvr\\.org.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*mathtag\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*casalemedia\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*indexexchange\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*ib\\.adnxs\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*smaato\\.net.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*facebook\\.com\\/tr.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*connect\\.facebook\\.net\\/.*\\/fbevents.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*pagead.*\\.googlesyndication\\.com.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*adservice\\.google\\..*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*\\/ads\\/.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*\\/ad\\.js.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*\\/ads\\.js.*" },
+    "action": { "type": "block" }
+  },
+  {
+    "trigger": { "url-filter": ".*\\/adsbygoogle\\.js.*" },
+    "action": { "type": "block" }
+  }
+]
