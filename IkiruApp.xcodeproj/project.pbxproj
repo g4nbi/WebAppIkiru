@@ -59,7 +59,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AA0000000000000000000001 = {
+		AA0000000000000000000030 = {
 			isa = PBXGroup;
 			children = (
 				AA0000000000000000000002 /* IkiruApp */,
@@ -110,7 +110,7 @@
 				en,
 				Base,
 			);
-			mainGroup = AA0000000000000000000001;
+			mainGroup = AA0000000000000000000030;
 			productRefGroup = AA0000000000000000000003 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
